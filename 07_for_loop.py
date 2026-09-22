@@ -1,0 +1,4 @@
+# Python for loop
+
+for number in range(1, 6):
+    print("Number:", number)
